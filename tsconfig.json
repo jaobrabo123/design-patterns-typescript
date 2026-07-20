@@ -24,5 +24,5 @@
     "types": ["node"],
     "allowJs": true
   },
-  "exclude": ["./eslint.config.mjs"]
+  "exclude": ["./eslint.config.mjs", "./dist/**/*"]
 }
